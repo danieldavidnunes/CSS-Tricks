@@ -12,8 +12,6 @@ This example will show how make a simple mouse reveal without JavaScript code. I
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 - [HTML] - skeleton
 - [CSS] - makeup
 - [DILLINGER](https://dillinger.io/) - Online Markdown editor
