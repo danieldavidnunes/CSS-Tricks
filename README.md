@@ -4,4 +4,4 @@
 Here you will see some projetcs using CSS
 
 ## Projects
-- [Mouse Reveal only CSS](https://github.com/danieldavidnunes/CSS-Tricks/tree/main/MouseReveal)
+- [Mouse Reveal, _only CSS_](https://github.com/danieldavidnunes/CSS-Tricks/tree/main/MouseReveal)
