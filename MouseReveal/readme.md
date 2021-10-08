@@ -9,7 +9,7 @@ This example will show how make a simple mouse reveal without JavaScript code. I
 
 
 ## Online demonstration
-[Click here](https://htmlpreview.github.io/?https://github.com/danieldavidnunes/CSS-Tricks/blob/main/MouseReveal/mouse-reveal.html) and enjoy! 
+[CLICK HERE](https://htmlpreview.github.io/?https://github.com/danieldavidnunes/CSS-Tricks/blob/main/MouseReveal/mouse-reveal.html) and enjoy! 
 
 
 ## Tech
