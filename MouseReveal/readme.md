@@ -1,10 +1,9 @@
 # CSS Tricks
-## _Mouse Reveal, only CSS_
+## _Mouse Reveal, only CSS and JavaScript_
 
-This example will show how to make a simple mouse reveal without JavaScript code. If you want to use JS you could make the "pixel boxes" based on the screen, but, this is only an example to open your mind about it.
+This example will show how to make a simple mouse reveal. 
 
-- Without JavaScript
-- Only CSS
+- Only CSS and JavaScript
 - ✨Magic ✨
 
 
@@ -16,6 +15,7 @@ This example will show how to make a simple mouse reveal without JavaScript code
 
 - [HTML] - skeleton
 - [CSS] - makeup
+- [JAVASCRIPT] - cloner
 - [DILLINGER](https://dillinger.io/) - Online Markdown editor
 
 
